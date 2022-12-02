@@ -90,9 +90,14 @@ button:hover{
 
 footer{
     background-color: #b3000c;
-    padding: 20px;
+    padding: 25px;
     text-align: center;
-    margin-top: 370px;
+    margin-top: 380px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: -8px;
 }
 
 .row img{
